@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+//  int  a = B + B12;
+kljasldfj 123123 
+
+int * func ( int a  ,  int b ,  int  c  ) {
+	int sum;
+	sum = a + b + c;
+	return sum;
+}
+
+int main() {
+
+	int a, b, c;
+
+	a = a + c;
+	c = a + b * a;
+
+	if(a < b) {
+		printf("NO");
+	}
+	else if (b == c) {
+		printf("YES");
+	}
+	else {
+		printf("WoW");
+	}
+
+	while (a < b) {
+		printf("HELLO");
+	
+		if(c > b) {
+			printf("Hey");
+		}
+		else {
+			printf("O Hey");	
+		}
+	}
+
+}

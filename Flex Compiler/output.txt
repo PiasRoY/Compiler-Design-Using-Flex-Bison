@@ -1,0 +1,88 @@
+Header File: #include <stdio.h>
+
+
+Comment: //  int  a = B + B12;
+
+Unexpected k;
+Unexpected l;
+Unexpected j;
+Unexpected a;
+Unexpected s;
+Unexpected l;
+Unexpected d;
+Unexpected f;
+Unexpected j;
+Unexpected  ;
+Unexpected 1;
+Unexpected 2;
+Unexpected 3;
+Unexpected 1;
+Unexpected 2;
+Unexpected 3;
+Unexpected  ;
+
+
+Function:
+    int * func ( int a  ,  int b ,  int  c  ) {
+
+	Variable Declaration: int sum;
+
+	Arithmatic/Bitwise Operation: sum = a + b + c;
+
+	return sum;
+    }
+
+Function:
+    int main() {
+
+
+	Multiple Variable Declaration:
+    int a, b, c;
+
+
+	Arithmatic/Bitwise Operation: a = a + c;
+
+	Arithmatic/Bitwise Operation: c = a + b * a;
+
+
+	IF condition:
+    if(a < b) {
+
+		printf("NO");
+	    }
+	ELSE IF condition:
+    else if (b == c) {
+
+		printf("YES");
+	    }
+	Else condition:
+    else {
+
+		printf("WoW");
+	    }
+
+	While Loop Starts:
+    while (a < b) {
+
+		printf("HELLO");
+	
+		IF condition:
+    if(c > b) {
+
+			printf("Hey");
+		    }
+		Else condition:
+    else {
+
+			printf("O Hey");	
+		    }
+	    }
+
+    }
+
+
+variables = 1
+multiple variables = 1
+functions = 2
+loop = 1
+IF-Else = 2

@@ -1,0 +1,50 @@
+import "something.h"
+
+def doSomething (first, second, third) {
+	abc1 = 2 * 3 + (2 + 5)
+	abc2 = (8 + 5) / 2
+	abc3 = (abc1 * abc2) / abc1
+}
+
+a = 3
+b = 5
+
+if(a == 3) {
+	//doSomething
+}
+else {
+	//doSomething
+}
+
+if(a < 2) {}
+elif(a < 3) {}
+elif(a < 4) {}
+
+if(a > 5) {}
+elif(b < 5) {}
+else {}
+
+for(i = (2+3)-(4*1); i <= 5; ) {}
+
+c = (2*4) + a + (b/2)
+
+show(2, 5)
+
+
+a = 7
+b = 8
+hjhgjhjhvjhvbddfsfsdfd = 23
+var1 = (a+b)
+var2 = a-b
+var3 = a*b
+var4 = a/b
+var5 = a^b
+var6 = a<b
+var7 = a>b
+var8 = a<=b
+var9 = a>=b
+var10 = a==b
+var11 = a!=b
+
+show(var1, var2, var3, var4, var5, var6, var7, var8, var9, var10, var11)
+
